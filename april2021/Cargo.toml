@@ -1,0 +1,10 @@
+[package]
+name = "april2021"
+version = "0.1.0"
+authors = ["Geoff Donoghue <geoff.donoghue@mail.utoronto.ca>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+float_eq = "0.5.0"
