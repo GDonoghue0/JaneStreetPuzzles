@@ -1,2 +1,5 @@
 build*
 optiver
+*/target
+*/debug
+*/Cargo.lock
